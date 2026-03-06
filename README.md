@@ -6,8 +6,6 @@ This project uses the HTML5 `<canvas>` element to deliver a functional drawing a
 
 ## 📸 Screenshots
 
-*(Replace the placeholder links below with your actual screenshot paths once uploaded to your repo)*
-
 <img width="1284" height="872" alt="image" src="https://github.com/user-attachments/assets/2a273d27-e564-4f87-b57b-842491ed0eb6" /><br>
 *The main workspace featuring the ribbon UI, active canvas, and status bar.*<hr>
 
