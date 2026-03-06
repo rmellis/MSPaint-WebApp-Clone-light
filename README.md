@@ -1,4 +1,4 @@
-# 🎨 Web Paint (MS Paint Clone)
+# 🎨 MS Paint Clone WebApp (alpha) 
 
 A modern, web-based recreation of classic MS Paint, built entirely with vanilla HTML, CSS, and JavaScript. 
 
